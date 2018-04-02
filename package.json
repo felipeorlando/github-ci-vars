@@ -1,0 +1,26 @@
+{
+  "name": "github-ci-vars",
+  "version": "1.0.0",
+  "description": "Package for return GitHub vars for Semaphore, Travis or Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeorlando/github-ci-vars.git"
+  },
+  "keywords": [
+    "github",
+    "vars",
+    "ci",
+    "continuous",
+    "integration"
+  ],
+  "author": "Felipe Orlando <fobsouza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipeorlando/github-ci-vars/issues"
+  },
+  "homepage": "https://github.com/felipeorlando/github-ci-vars#readme"
+}
